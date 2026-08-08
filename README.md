@@ -38,6 +38,9 @@ All experiments were performed on Google Colab (x86-64, single-core, virtualized
 - `pqc_results.json` contains the full raw results (means and standard deviations) for all algorithms and operations.
 - You can re-run the notebook to reproduce similar results on your own Colab session. Small differences are expected due to Colab’s shared, virtualized infrastructure.
 
+## License
+
+Code and data in this repository are provided under the [MIT License](LICENSE) 
 
 
 ## Contact
